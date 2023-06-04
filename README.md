@@ -1,4 +1,4 @@
-# Determining-the-age-of-buyers
+# Determining the age of buyers
 ## Project description:
 The chain supermarket "Bread-Salt" introduces a computer vision system for processing customer photos. Photo fixation in the checkout area will help determine the age of customers in order to:
 - Analyze purchases and offer products that may be of interest to buyers of this age group;
